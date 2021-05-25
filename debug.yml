@@ -5,6 +5,5 @@
   vars:
     msg: 'hello'
   tasks:
-    - name: 'Debug'
     - debug: var=msg
     - debug: msg='goodbye'
