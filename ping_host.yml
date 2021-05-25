@@ -1,8 +1,0 @@
----
-- hosts: all
-  tasks:
-  - name: Print Facts
-    debug: 
-    msg: 
-      - Default Hostname is
-      - Default IPv4 of is
